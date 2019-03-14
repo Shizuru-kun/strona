@@ -1,0 +1,830 @@
+div.hero #Kontakt {
+    position: absolute;
+    width: 71px;
+    height: 20px;
+    left: 479px;
+    top: 50px;
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 18px;
+    letter-spacing: 0.02em;
+
+    color: #ffffff;
+}
+
+div.hero #Omnie
+{
+    position: absolute;
+    width: 87px;
+    height: 20px;
+    left: 116px;
+    top: 50px;
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 18px;
+    letter-spacing: 0.02em;
+
+    color: #ffffff;
+}
+div.hero #Umiejetnosci {
+    position: absolute;
+    width: 49px;
+    height: 20px;
+    left: 212px;
+    top: 50px;
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 18px;
+    letter-spacing: 0.02em;
+
+    color: #ffffff;
+}
+
+div.hero #Portfolio {
+    position: absolute;
+    width: 82px;
+    height: 20px;
+    left: 349px;
+    top: 50px;
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 18px;
+    letter-spacing: 0.02em;
+
+    color: #ffffff;
+}
+div.hero-text h1{
+position: absolute;
+width: 417px;
+height: 111px;
+left: 100px;
+top: 164px;
+
+font-family: Ubuntu;
+font-style: normal;
+font-weight: bold;
+line-height: normal;
+font-size: 96px;
+letter-spacing: 0.02em;
+
+color: #222222;}
+
+div.hero-text h2 {
+    position: absolute;
+    width: 427px;
+    height: 42px;
+    left: 100px;
+    top: 320px;
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 36px;
+    letter-spacing: 0.02em;
+
+    color: #222222;
+    
+}
+div.hero-text span{
+color: #2C88CB;}
+
+div.hero-text {
+    position: absolute;
+    width: 840px;
+    height: 680px;
+    left: 0px;
+    top: 0px;
+
+    background: rgba(255, 255, 255, 0.75);
+    
+}
+div.hero-box{
+    position:absolute;
+    width:1440px;
+    height:680px;
+    left: 0px;
+    top: 0px;
+background-image: url("kot1.jpg");
+background-repeat: repeat;
+background-size: contain;
+background-blend-mode:lighten;
+}
+div.hero-text p {
+    position: absolute;
+    width: 500px;
+    height: 50px;
+    left: 100px;
+    top: 380px;
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 18px;
+    letter-spacing: 0.02em;
+
+    color: #222222;
+}
+
+div.hero {
+    position: absolute;
+    width: 600px;
+    height: 680px;
+    left: 840px;
+    top: 0px;
+
+    background: rgba(44, 136, 203, 0.97);
+}
+
+div.statistics-text{
+    position: absolute;
+    width: 1440px;
+    height: 220px;
+    left: 0px;
+    top: 680px;
+
+    background: #FFFFFF;
+}
+
+p.value {
+    position: absolute;
+    width: 867px;
+    height: 42px;
+    left: 286px;
+    top: 705px;
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0.02em;
+
+    color: #222222;
+}
+div.hero-box div.navbar{
+    position: absolute;
+    width: 434px;
+    height: 20px;
+    left: 956px;
+    top: 50px;
+}
+
+.Strona {
+    position: absolute;
+    width: 1440px;
+    height: 1909px;
+    left: 0px;
+    top: 900px;
+
+    background: #F9F9F9;
+}
+
+.Omnie .tytul {
+    position: absolute;
+    width: 154px;
+    height: 37px;
+    left: 643px;
+    top: 100px;
+}
+.tytul span {
+    position: absolute;
+    width: 154px;
+    height: 37px;
+    left: 0px;
+    top: 0px;
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 32px;
+    letter-spacing: 0.02em;
+
+    color: #222222;
+}
+
+.Omnie .tytul .rect {
+    position: absolute;
+    width: 1240px;
+    height: 275px;
+    left: 100px;
+    top: 1030px;
+
+    background: #FFFFFF;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.05);
+}
+
+.tekst p {
+    position: absolute;
+    width: 597px;
+    height: 285px;
+    left: 643px;
+    top: 150px;
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 31px;
+    font-size: 18px;
+    letter-spacing: 0.04em;
+
+    color: #222222;
+}
+
+.dups {
+    position: absolute;
+    width: 208px;
+    height: 0px;
+    left: 517px;
+    top: 250px;
+
+    border: 1px solid #2C88CB;
+    transform: rotate(89.72deg);
+}
+
+.dane {
+    position: absolute;
+    width: 253px;
+    height: 184px;
+    left: 100px;
+    top: 75px;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 29px;
+    font-size: 18px;
+    letter-spacing: 0.02em;
+
+    color: #222222;
+}
+.dane p.imie{
+    position: absolute;
+    width: 214px;
+    height: 29px;
+    left: 100px;
+    top: 75px;
+
+}
+.dane p.wiek {
+    position: absolute;
+    width: 214px;
+    height: 29px;
+    left: 100px;
+    top: 100px;
+
+}
+.dane p.zawod {
+    position: absolute;
+    width: 214px;
+    height: 29px;
+    left: 100px;
+    top: 125px;
+
+}
+.dane p.telefon {
+    position: absolute;
+    width: 214px;
+    height: 29px;
+    left: 100px;
+    top: 150px;
+
+}
+.dane p.mail {
+    position: absolute;
+    width: 214px;
+    height: 29px;
+    left: 100px;
+    top: 175px;
+
+}
+
+.dane p span {
+    color: rgba(44, 136, 203, 0.97);
+}
+
+.umiejetnosci .tytul span {
+    position: absolute;
+    width: 87px;
+    height: 37px;
+    left: 643px;
+    top: 400px;
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 32px;
+    letter-spacing: 0.02em;
+
+    color: #222222;
+}
+
+.umiejetnosci .hard {
+    position: absolute;
+    width: 600px;
+    height: 350px;
+    left: 100px;
+    top: 450px;
+
+    background: #FFFFFF;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.05);
+}
+
+.umiejetnosci .soft {
+    position: absolute;
+    width: 600px;
+    height: 350px;
+    left: 740px;
+    top: 450px;
+
+    background: #FFFFFF;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.05);
+}
+
+.umiejetnosci .hard .rect .rect1 {
+    position: absolute;
+    width: 400px;
+    height: 10px;
+    left: 100px;
+    top: 141px;
+    background: #E7E7E7;
+    border-radius: 20px;
+
+    
+}
+
+
+.umiejetnosci .hard .rect .rect2 {
+    position: absolute;
+    width: 400px;
+    height: 10px;
+    left: 100px;
+    top: 200px;
+background: #E7E7E7;
+border-radius: 20px;
+
+}
+.umiejetnosci .hard .rect .rect3
+{
+position: absolute;
+width: 400px;
+height: 10px;
+left: 100px;
+top: 259px;
+
+background: #E7E7E7;
+border-radius: 20px;}
+
+.umiejetnosci .soft .rect .rect1 {
+    position: absolute;
+    width: 400px;
+    height: 10px;
+    left: 100px;
+    top: 141px;
+    background: #E7E7E7;
+    border-radius: 20px;
+
+
+}
+
+
+.umiejetnosci .soft .rect .rect2 {
+    position: absolute;
+    width: 400px;
+    height: 10px;
+    left: 100px;
+    top: 200px;
+    background: #E7E7E7;
+    border-radius: 20px;
+
+}
+
+.umiejetnosci .soft .rect .rect3 {
+    position: absolute;
+    width: 400px;
+    height: 10px;
+    left: 100px;
+    top: 259px;
+
+    background: #E7E7E7;
+    border-radius: 20px;
+}
+
+.umiejetnosci span {
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 32px;
+    letter-spacing: 0.02em;
+
+    color: #222222;
+}
+
+.umiejetnosci .hard span {
+    position: absolute;
+    width: 160px;
+    height: 37px;
+    left: 250px;
+    top: 50px;
+}
+
+.umiejetnosci .soft span {
+    position: absolute;
+    width: 160px;
+    height: 37px;
+    left: 250px;
+    top: 50px;
+}
+
+
+
+.hard .line .line1 {
+    position: absolute;
+    width: 320px;
+    height: 10px;
+    left: 100px;
+    top: 141px;
+    background: linear-gradient(90deg, #2C88CB 0%, #62BDFF 100%);
+    border-radius: 20px;
+}
+
+.hard .line .line2 {
+    position: absolute;
+    width: 320px;
+    height: 10px;
+    left: 100px;
+    top: 200px;
+
+    background: linear-gradient(90deg, #2C88CB 0%, #62BDFF 100%);
+    border-radius: 20px;
+}
+
+.hard .line .line3{
+    position: absolute;
+    width: 200px;
+    height: 10px;
+    left: 100px;
+    top: 259px;
+
+    background: linear-gradient(90deg, #2C88CB 0%, #62BDFF 94.06%);
+    border-radius: 20px;
+}
+
+.soft .line .line1 {
+    position: absolute;
+    width: 370px;
+    height: 10px;
+    left: 100px;
+    top: 141px;
+    background: linear-gradient(90deg, #2C88CB 0%, #62BDFF 100%);
+    border-radius: 20px;
+}
+
+.soft .line .line2 {
+    position: absolute;
+    width: 300px;
+    height: 10px;
+    left: 100px;
+    top: 200px;
+
+    background: linear-gradient(90deg, #2C88CB 0%, #62BDFF 100%);
+    border-radius: 20px;
+}
+
+.soft .line .line3 {
+    position: absolute;
+    width: 100px;
+    height: 10px;
+    left: 100px;
+    top: 259px;
+
+    background: linear-gradient(90deg, #2C88CB 0%, #62BDFF 94.06%);
+    border-radius: 20px;
+}
+
+.kontakt .lewa {
+    position: absolute;
+    width: 418px;
+    height: 625px;
+    left: 101px;
+    top: 2000px;
+
+    background: #2C88CB;
+}
+
+.lewa .linia {
+    position: absolute;
+    width: 123px;
+    height: 0px;
+    left: 27px;
+    top: 50px;
+
+    border: 1px solid #FFFFFF;
+    border-radius: 100px;
+    transform: rotate(180deg);
+}
+
+.lewa p.jeden {
+position: absolute;
+width: 287px;
+height: 75px;
+left: 25px;
+top: 100px;
+
+font-family: Ubuntu;
+font-style: normal;
+font-weight: normal;
+line-height: 25px;
+font-size: 18px;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+}
+
+.lewa p.dwa {
+    position: absolute;
+    width: 286px;
+    height: 75px;
+    left: 25px;
+    top: 216px;
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 18px;
+    letter-spacing: 0.02em;
+
+    color: #FFFFFF;
+}
+
+.lewa p.dane {
+    position: absolute;
+    width: 200px;
+    height: 75px;
+    left: 25px;
+    top: 482px;
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 18px;
+    letter-spacing: 0.02em;
+
+    color: #FFFFFF;
+
+}
+
+.lewa span {
+    font-weight: bold;
+}
+
+.kontakt .prawa {
+    position: absolute;
+    width: 819px;
+    height: 625px;
+    left: 519px;
+    top: 2000px;
+
+    background: #F9F9F9;
+}
+
+.input-line #mail{
+    position: absolute;
+    width: 600px;
+    height: 30px;
+    left: 100px;
+    top: 237px;
+
+    border: 1px solid #2C88CB;
+}
+
+.input-line #name {
+    position: absolute;
+    width: 600px;
+    height: 30px;
+    left: 100px;
+    top: 162px;
+
+    border: 1px solid #2C88CB;
+}
+
+.input-line #temat {
+    position: absolute;
+    width: 600px;
+    height: 30px;
+    left: 100px;
+    top: 312px;
+
+    border: 1px solid #2C88CB;
+}
+
+.input-line #message {
+    position: absolute;
+    width: 600px;
+    height: 200px;
+    left: 100px;
+    top: 382px;
+
+    border: 1px solid #2C88CB;
+}
+
+.input-line p {
+    position: absolute;
+    width: 380px;
+    height: 37px;
+    left: 100px;
+    top: 50px;
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0.02em;
+
+    color: #2C88CB;
+
+}
+
+
+
+.hard p.a {
+    position: absolute;
+    width: 40px;
+    height: 21px;
+    left: 100px;
+    top: 100px;
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 18px;
+    letter-spacing: 0.02em;
+
+    color: #222222;
+}
+
+.hard p.b {
+    position: absolute;
+    width: 26px;
+    height: 21px;
+    left: 100px;
+    top: 160px;
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 18px;
+    letter-spacing: 0.02em;
+
+    color: #222222;
+
+}
+.hard p.c {
+    position: absolute;
+    width: 26px;
+    height: 21px;
+    left: 100px;
+    top: 220px;
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 18px;
+    letter-spacing: 0.02em;
+
+    color: #222222;
+
+}
+.soft p.a {
+    position: absolute;
+    width: 40px;
+    height: 21px;
+    left: 100px;
+    top: 100px;
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 18px;
+    letter-spacing: 0.02em;
+
+    color: #222222;
+}
+
+.soft p.b {
+    position: absolute;
+    width: 26px;
+    height: 21px;
+    left: 100px;
+    top: 160px;
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 18px;
+    letter-spacing: 0.02em;
+
+    color: #222222;
+
+}
+
+.soft p.c {
+    position: absolute;
+    width: 26px;
+    height: 21px;
+    left: 100px;
+    top: 220px;
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 18px;
+    letter-spacing: 0.02em;
+
+    color: #222222;
+
+}
+
+.statistics-box .button {
+    position: absolute;
+    width:200px;
+    height:50px;
+    top: 800px;
+    left: 500px;
+
+    background: #FDC32F;
+    border-radius: 50px;
+}
+
+.button p {
+    position: absolute;
+    left: 20%;
+    right: 20%;
+    top: 0%;
+    bottom: 50%;
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 18px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+.button2{
+    position: absolute;
+     width:200px;
+     height:50px;
+     top: 800px;
+     left: 720px;
+
+    border: 1px solid #2C88CB;
+    box-sizing: border-box;
+    border-radius: 50px;
+}
+
+.button2 p {
+    position: absolute;
+    left: 22.5%;
+    right: 22%;
+    top: 0%;
+    bottom: 30%;
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 18px;
+    text-align: center;
+
+    color: #2C88CB;
+}
